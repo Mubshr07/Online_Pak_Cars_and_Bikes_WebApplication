@@ -1,0 +1,55 @@
+form.loginform {
+    
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 15% !important;
+    margin-bottom: 20%;
+    background: #fdfdfd;
+    border-radius: 10px;
+    padding: 20px;
+}
+body {
+    background: gainsboro;
+}
+.form-control, .btn{
+	border-radius: 0px !important;
+}
+form.signupform {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 15% !important;
+    margin-bottom: 20%;
+    background: #fdfdfd;
+    border-radius: 10px;
+    padding: 20px;
+}
+.btn-primary{
+	background-color: #ec109f !important;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+.custombtn{
+	min-width: 150px;
+    background-color: #ec109f !important;
+    color: #ffffff;
+    border-color: #ffffff;
+    font-weight: 700;
+    font-size: 14pt;
+}
+.bg-light{
+    background-color: #ffffff !important;
+}
+a.nav-link {
+    color: black !important;
+}
+.custmhead{
+    margin-top: 10px !important;
+}
+.custmhome, .custmheading{
+    margin-top: 35px !important;
+}
+.custdescrp{
+    height: 96px !important;
+    width: 420px !important;
+    border-color: #dcdcdc !important;
+}

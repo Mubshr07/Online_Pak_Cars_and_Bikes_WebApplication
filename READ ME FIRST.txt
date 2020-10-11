@@ -1,0 +1,8 @@
+
+
+1. make a database in localhost named 'opcb_database'
+2. Import database from given sql file.
+3. copy 'fyp' folder in your 'www' folder.
+4. go to your browser and type 'localhost/fyp'
+5. Don't change the folder name 'fyp'. pLease
+6. Enjoy
