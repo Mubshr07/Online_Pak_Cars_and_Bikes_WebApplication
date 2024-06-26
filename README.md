@@ -1,10 +1,10 @@
 # Poject: Online Pakistan Cars and Bikes Web Application
 
 ## Design and Developed By:
-	Name: 	Mubashir Iqbal 
-Details: I specialize in web development, crafting robust and efficient web applications. My skill set includes expertise in Apache Server, PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript, Django, and WordPress. I create dynamic, user-friendly websites and web applications that meet modern standards. My projects involve everything from server-side scripting and database management to front-end design and development, ensuring seamless functionality and an intuitive user experience.👨🏻‍ 👨🏻‍💻
-
-
+	Mubashir Iqbal | AI Researcher | Web Developer 
+<img src="https://avatars.githubusercontent.com/u/34352213?v=4" width="150" height="150" alt="mubshr07@gmail.com" align="right" style="margin-right: 20px;   border: 5px solid #555; border-radius:50px; ">
+I specialize in web development, crafting robust and efficient web applications. My skill set includes expertise in Apache Server, PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript, Django, and WordPress. I create dynamic, user-friendly websites and web applications that meet modern standards. My projects involve everything from server-side scripting and database management to front-end design and development, ensuring seamless functionality and an intuitive user experience.👨🏻‍ 👨🏻‍💻
+ 
 
 ### Technologies:
 	1.	Backend language: PHP
